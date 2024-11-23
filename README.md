@@ -25,5 +25,5 @@ Muhammad Ramadhan - 2210010178 - Kelas 5C reg Pagi Banjarmasin
 
 ## Demo
 
-![App Screenshot]()
+![App Screenshot](https://github.com/HaxsUr/AplikasiKontak/blob/main/demo/demo.gif)
 
